@@ -1,4 +1,9 @@
 # Python Practice Projects / Python Pekiştirme Projeleri
+✔ Aşama 1 / Stage 1
+✔ Aşama 2 / Stage 2
+🕖 Aşama 3 / Stage 3
+❌ Aşama 4 / Stage 4
+❌ Aşama 5 / Stage 5
 
 🇹🇷 [Türkçe](#türkçe) | 🇬🇧 [English](#english)
 
